@@ -1,7 +1,8 @@
 ---
-  tags: catch-up
+  tags: kids, ruby, strings, variables, integers, floats
   languages: ruby
   level: 1
+  type: catch-up
 ---
 
 # Catch Up
