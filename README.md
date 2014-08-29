@@ -12,4 +12,4 @@ So you missed the last class? NBD! Let's play a little catch up on Ruby:
 
 Play through part 1 (Introduction to Ruby) and part 2 (Putting the Form in Formatter) of the tutorial.
 
-After you complete the Codecademy lessons test your knowledge [here](http://www.codequizzes.com/learn-ruby/variables-strings-numbers)
+After you complete the Codecademy lessons test your knowledge [here](http://www.codequizzes.com/learn-ruby/variables-strings-numbers). Try typing out your answers first before you click to see the solution.
